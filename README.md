@@ -25,6 +25,6 @@
   ```sh
   php artisan db:seed --class=UserSeeder
   ```
-After running the seeder there is a default account that you can use:
-Username: admin@example.com
+## After running the seeder there is a default account that you can use:
+Username: admin@example.com  
 Password: 12345
